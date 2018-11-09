@@ -1,15 +1,15 @@
 {
-  "short_name": "C2E",
-  "name": "Click 2 Eat",
+  "short_name": "Doveze.cz",
+  "name": "Doveze.cz",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "192x192",
-      "type": "image/png"
+      "src": "mobile.ico",
+      "sizes": "256x256 128x128 64x64",
+      "type": "image/x-icon"
     }
   ],
-  "start_url": "./index.html",
-  "display": "standalone",
+  "start_url": "/",
+  "display": "fullscreen",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
