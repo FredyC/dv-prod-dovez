@@ -16,7 +16,7 @@ workbox.setConfig({modulePathPrefix: "/workbox-v3.6.3"});
 
 importScripts(
   "/service-worker-updater.js",
-  "/precache-manifest.2c1763fac331dc3d33ea43be68de8db1.js"
+  "/precache-manifest.b72427d1c524a1ee07237c82cbe94af2.js"
 );
 
 workbox.clientsClaim();
