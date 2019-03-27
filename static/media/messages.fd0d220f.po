@@ -1,0 +1,549 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2018-09-13 13:52+0200\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: sk\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/segments/destination/AddressInput.tsx:52
+msgid "Address was not recognized."
+msgstr "Zadanú adresu nejde rozpoznať."
+
+#: src/segments/orderForm/OrderFormStorageNotice.tsx:52
+msgid "Always remember"
+msgstr "Vždy pamätať"
+
+#: src/segments/finish/FinishViewSupport.tsx:13
+msgid "Any question? Do you have a problem? Call:"
+msgstr "Máte otázky, alebo nejaký problém? Volajte:"
+
+#: src/segments/mobile/MobileDeliveryView.tsx:13
+#: src/segments/mobile/MobilePickupView.tsx:23
+msgid "Back"
+msgstr "Späť"
+
+#: src/segments/finish/FinishViewFooter.tsx:37
+#: src/segments/finish/FinishViewFooter.tsx:46
+msgid "Back to home page"
+msgstr "Návrat na hlavnú stránku"
+
+#: src/segments/shop/ShopCloseAlert.tsx:12
+#~ msgid "Beware! We are {closingIn, plural, one {closing in 1 minute} other {closing in # minutes}} . Finish your order quickly."
+#~ msgstr "Pozor! {closingIn, plural, one {Zatvárame za 1 minútu} few {Zatvárame za # minúty} other {Zatvárame za # minút}} . Rýchlo dokončite svoju objednávku."
+
+#: src/segments/shop/ShopCloseAlert.tsx:18
+msgid "Beware! We are {closingInPlural}. Finish your order quickly."
+msgstr "Pozor! {closingInPlural}. Dokončite rýchlo svoju objednávku."
+
+#: src/segments/mobile/MobileConfirmView.tsx:19
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: src/segments/cart/CartIsEmpty.tsx:8
+#: src/segments/mobile/MobileCartSummary.tsx:26
+msgid "Cart is empty"
+msgstr "Košík je prázdny"
+
+#: src/segments/orderForm/OrderGoPayModal.tsx:15
+msgid "Checking your GoPay payment, please wait..."
+msgstr "Overujeme Vašu GoPay platbu, prosím vyčkajte..."
+
+#: src/segments/mobile/MobilePickupList.tsx:26
+msgid "Choose"
+msgstr "Vyberte"
+
+#: src/segments/mobile/MobilePickupMap.tsx:43
+#: src/segments/mobile/MobilePickupView.tsx:23
+msgid "Choose branch"
+msgstr "Vyberte pobočku"
+
+#: src/segments/orderForm/OrderTimeButtons.tsx:18
+msgid "Choose time"
+msgstr "Vyberte čas"
+
+#: src/segments/shop/ShopHeader.tsx:38
+msgid "Choose your delivery option below"
+msgstr "Nižšie vyberte spôsob doručenia"
+
+#: src/common/ErrorContainer.tsx:114
+msgid "Close"
+msgstr "Zavrieť"
+
+#: src/segments/map/PickupMapBranch.tsx:52
+#: src/segments/shop/ShopStatusDisplay.tsx:56
+msgid "Closed"
+msgstr "Zatvorené"
+
+#: src/common/ErrorContainer.tsx:49
+msgid "Communication problem"
+msgstr "Problém so spojením"
+
+#: src/segments/map/AddressSubmit.tsx:11
+msgid "Confirm address"
+msgstr "Potvrdiť adresu"
+
+#: src/segments/orderForm/OrderTimePicker.tsx:95
+msgid "Confirm time"
+msgstr "Potvrďte čas"
+
+#: src/segments/cart/CartTotals.tsx:14
+msgid "Covers"
+msgstr "Obaly"
+
+#: src/segments/orderForm/OrderTimePicker.tsx:84
+msgid "Deliver at what time?"
+msgstr "Čas doručenia?"
+
+#: src/segments/cart/CartTotals.tsx:20
+msgid "Delivery"
+msgstr "Donáška"
+
+#: src/segments/map/PickupMapBranch.tsx:45
+#: src/segments/mobile/MobilePickupList.tsx:30
+#: src/segments/mobile/MobilePickupMap.tsx:50
+msgid "Delivery only"
+msgstr "Iba dovoz"
+
+#: src/segments/orderForm/OrderFormStorageNotice.tsx:55
+msgid "Do not store"
+msgstr "Neukládať"
+
+#: src/segments/cart/CartModal.tsx:36
+msgid "Do you want to add something?"
+msgstr "S čím si to dáte"
+
+#: src/segments/orderForm/OrderEmailInput.tsx:12
+msgid "E-mail format is not valid"
+msgstr "Formát e-mailu nie je platný"
+
+#: src/segments/orderForm/OrderEmailInput.tsx:9
+msgid "E-mail is mandatory"
+msgstr "E-mail je povinný"
+
+#: src/segments/mobile/MobileDeliveryView.tsx:13
+msgid "Enter the address"
+msgstr "Zadajte adresu"
+
+#: src/models/OrderModel.ts:131
+msgid "Error during sending order. Please try again later."
+msgstr "Odosielanie objednávky zlyhalo. Skúste to prosím znovu."
+
+#: src/segments/cart/AddToCartModal.tsx:14
+#: src/segments/cart/ChangeCartModal.tsx:14
+msgid "Error in loading cart item. Issue was reported."
+msgstr "Chyba pri načítaní položky v košíku. Náš tým bol informovaný."
+
+#: src/segments/orderForm/OrderNameInput.tsx:7
+msgid "First name"
+msgstr "Meno"
+
+#: src/segments/orderForm/OrderNameInput.tsx:7
+msgid "First name is mandatory"
+msgstr "Meno je povinné"
+
+#: src/segments/foodMenu/FoodMenu.tsx:54
+msgid "Food menu is empty. We are sorry."
+msgstr "Ponuka je prázdna. Ospravedlňujeme sa."
+
+#: src/segments/cart/CartItem.tsx:44
+msgid "For free"
+msgstr "Zdarma"
+
+#: src/segments/mobile/MobileSmartBanner.tsx:48
+msgid "Free"
+msgstr "Zdarma"
+
+#: src/segments/orderForm/OrderErrorModal.tsx:23
+msgid "I understand"
+msgstr "Rozumiem"
+
+#: src/segments/destination/OrderMethod.tsx:22
+msgid "I want to deliver"
+msgstr "Jedlo chcem doviezť"
+
+#: src/segments/destination/OrderMethod.tsx:26
+msgid "I'll pick up"
+msgstr "Jedlo si vyzdvihnem."
+
+#: src/common/ErrorContainer.tsx:72
+msgid "If you like, please fill out feedback form so we can fix the problem faster. Restart the application otherwise."
+msgstr "Ak chcete, tak nám napíšte čo sa stalo, aby sme to mohli čo najrýchlejšie napraviť. Inak aplikáciu reštartujte."
+
+#: src/segments/mobile/MobileCartSummary.tsx:27
+msgid "In the cart you have goods for<0>{price}</0>"
+msgstr "V košíku máte tovar v cene<0>{price}</0>"
+
+#: src/segments/mobile/AppleBanner.tsx:36
+msgid "Install this webapp on your device: Tap <0/> and then Add to homescreen."
+msgstr "Pridajte si našu aplikáciu: kliknite na <0/> a potom na \"pridať na plochu\"."
+
+#: src/models/OrderModel.ts:136
+msgid "Internal error during sending order. Order can not be finished right now. Our team was notified and is working on fix. Thank you for your understanding."
+msgstr "Z dôvodu internej technickej chyby nie je možné v tejto chvíli dokončiť objednávku. Náš tým bol o probléme informovaný a pracuje na jeho náprave. Ďakujeme za pochopenie."
+
+#: src/segments/finish/FinishViewOrder.tsx:21
+msgid "It's done! Thank you :-)"
+msgstr "A je to! Ďakujeme :-)"
+
+#: src/segments/orderForm/OrderTimePicker.tsx:69
+msgid "It's not possible to pick a specific order time at this moment."
+msgstr "Určiť čas doručenia momentálne nie je možné."
+
+#: src/segments/orderForm/OrderNameInput.tsx:8
+msgid "Last name"
+msgstr "Priezvisko"
+
+#: src/segments/orderForm/OrderNameInput.tsx:8
+msgid "Last name is mandatory"
+msgstr "Priezvisko je povinné"
+
+#: src/segments/orderForm/OrderAgreements.tsx:52
+msgid "Less"
+msgstr "Menej"
+
+#: src/segments/foodMenu/OrderLimitModal.tsx:8
+msgid "Limit has been reached"
+msgstr "Bol dosiahnutý limit"
+
+#: src/segments/orderForm/OrderNoteInput.tsx:15
+msgid "Maximum length is {MAX_LENGTH, plural, other {# characters}}. Typed {0, plural, one {# char} other {# chars}}"
+msgstr "Maximálna dĺžka je {MAX_LENGTH, plural, other {# znakov}}. Napísané {0, plural, one {# znak} other {# znaky}}"
+
+#: src/segments/destination/AddressInput.tsx:62
+msgid "Meal can't be delivered to your chosen address by any restaurant."
+msgstr "Ospravedlňujeme sa, ale na Vami zvolenú adresu nedoručujeme."
+
+#: src/segments/cart/CartMinimalOrderPrice.tsx:11
+msgid "Minimal price of order is {0}"
+msgstr "Minimálna cena objednávky je {0}"
+
+#: src/segments/orderForm/OrderAgreements.tsx:53
+msgid "More..."
+msgstr "Viac..."
+
+#: src/index.tsx:36
+msgid "New version has been found. Do you want to reload application to apply it now?"
+msgstr "Je dostupná nová verzia. Prajete si znova načítať aplikáciu a aktualizovať?"
+
+#: src/segments/orderForm/OrderNoteInput.tsx:12
+msgid "Note"
+msgstr "Poznámka"
+
+#: src/segments/orderForm/OrderNoteInput.tsx:8
+msgid "Note is too long"
+msgstr "Poznámka je moc dlhá"
+
+#: src/segments/orderForm/OrderErrorModal.tsx:12
+msgid "Order can not be completed"
+msgstr "Objednávka nemôže byť dokončená"
+
+#: src/segments/mobile/MobileConfirmView.tsx:19
+msgid "Order confirmation"
+msgstr "Potvrdenie objednávky"
+
+#: src/segments/shop/OrderAddress.tsx:13
+msgid "Order to address"
+msgstr "Objednať na adresu"
+
+#: src/segments/shop/ShopHeader.tsx:53
+msgid "Order was send"
+msgstr "Objednávka bola odoslaná"
+
+#: src/common/ErrorContainer.tsx:10
+msgid "Our team was notified about the issue."
+msgstr "Náš tým bol o probléme informovaný."
+
+#: src/segments/mobile/MobilePaymentMethod.tsx:11
+#: src/segments/orderForm/OrderPaymentMethod.tsx:9
+msgid "Pay by card"
+msgstr "Platiť online"
+
+#: src/segments/mobile/MobilePaymentMethod.tsx:16
+#: src/segments/orderForm/OrderPaymentMethod.tsx:12
+msgid "Pay by cash"
+msgstr "Platiť v hotovosti"
+
+#: src/segments/orderForm/OrderPhoneInput.tsx:10
+msgid "Phone"
+msgstr "Telefón"
+
+#: src/segments/orderForm/OrderPhoneInput.tsx:5
+msgid "Phone is mandatory"
+msgstr "Telefón je povinný"
+
+#: src/segments/orderForm/OrderPhoneInput.tsx:6
+msgid "Phone prefix is mandatory"
+msgstr "Predvoľba je povinná"
+
+#: src/segments/shop/OrderAddress.tsx:17
+msgid "Pickup at address"
+msgstr "Vyzdvihnúť na adrese"
+
+#: src/segments/map/PickupMapBranch.tsx:58
+msgid "Pickup here"
+msgstr "Vyzdvihnúť tu"
+
+#: src/segments/mobile/MobileConfirmView.tsx:36
+#: src/segments/mobile/MobileConfirmView.tsx:41
+#: src/segments/orderForm/OrderSubmitLine.tsx:15
+#: src/segments/orderForm/OrderSubmitLine.tsx:17
+msgid "Place order"
+msgstr "Objednať"
+
+#: src/segments/destination/AddressInput.tsx:57
+msgid "Please enter address with house number."
+msgstr "Prosím zadajte adresu a číslo domu."
+
+#: src/common/ErrorContainer.tsx:62
+msgid "Please try again in moment. We apologize for inconvenience."
+msgstr "Prosím, pokúste sa znovu neskôr. Ospravedlňujeme sa za ťažkosti."
+
+#: src/common/ErrorContainer.tsx:54
+msgid "Problems encountered"
+msgstr "Narazili sme na problém."
+
+#: src/segments/orderForm/OrderPromoInput.tsx:66
+msgid "Promo codes"
+msgstr "Zľavové kódy"
+
+#: src/common/ErrorContainer.tsx:77
+msgid "Restart application"
+msgstr "Reštartujte aplikáciu"
+
+#: src/common/ErrorContainer.tsx:80
+msgid "Send feedback"
+msgstr "Zaslať čo sa stalo"
+
+#: src/common/ErrorContainer.tsx:61
+msgid "Service is temporarily unavailable"
+msgstr "Služba je dočasne nedostupná"
+
+#: src/common/ErrorContainer.tsx:43
+msgid "Service problem"
+msgstr "Problém služby"
+
+#: src/segments/mobile/MobileSmartBanner.tsx:54
+msgid "Show app"
+msgstr "Zobraziť aplikáciu"
+
+#: src/segments/mobile/MobilePickupList.tsx:21
+msgid "Show on map"
+msgstr "Ukázať na mape"
+
+#: src/segments/foodMenu/OrderLimitModal.tsx:9
+msgid "The maximum number of items in the order has been reached"
+msgstr "Bolo dosiahnuté maximálne množstvo položiek v objednávke."
+
+#: src/segments/orderForm/OrderFormStorageNotice.tsx:45
+msgid "This app is using secure storage for keeping filled form data. It's not cookies, these are stored in your browser only."
+msgstr "Táto aplikácia využíva zabezpečené úložisko pre uchovanie zadaných dát a cookies súbory pre poskytovanie služieb, personalizáciu reklám a analýzu návštevnosti. Používaním tohto webu s tým súhlasíte."
+
+#: src/segments/cart/CartTotals.tsx:26
+msgid "Tip"
+msgstr "Sprepitné"
+
+#: src/segments/orderForm/OrderFormTipInput.tsx:44
+msgid "Tips 10%"
+msgstr "Sprepitné 10 %"
+
+#: src/segments/orderForm/OrderFormTipInput.tsx:45
+msgid "Tips 15%"
+msgstr "Sprepitné 15 %"
+
+#: src/segments/orderForm/OrderFormTipInput.tsx:46
+msgid "Tips 20%"
+msgstr "Sprepitné 20 %"
+
+#: src/segments/orderForm/OrderFormTipInput.tsx:47
+msgid "Tips 25%"
+msgstr "Sprepitné 25 %"
+
+#: src/segments/orderForm/OrderFormTipInput.tsx:43
+msgid "Tips 5%"
+msgstr "Sprepitné 5 %"
+
+#: src/segments/cart/CartTotals.tsx:32
+msgid "Total"
+msgstr "Celkom"
+
+#: src/segments/finish/FinishViewOrder.tsx:55
+msgid "Total cost payed:"
+msgstr "Celkom platené:"
+
+#: src/segments/finish/FinishViewOrder.tsx:52
+msgid "Total cost to be payed:"
+msgstr "Celková suma k platbe:"
+
+#: src/segments/cart/CartDiscounts.tsx:10
+msgid "Total discount"
+msgstr "Celková zľava"
+
+#: src/common/ErrorContainer.tsx:66
+msgid "Try now"
+msgstr "Vyskúšať teraz"
+
+#: src/segments/destination/AddressInput.tsx:37
+msgid "Type address or choose it from map"
+msgstr "Napíšte adresu alebo ju vyberte na mape"
+
+#: src/common/ErrorContainer.tsx:71
+msgid "Unexpected error has occurred"
+msgstr "Nastala neočakávaná chyba"
+
+#: src/common/ErrorContainer.tsx:44
+msgid "Unexpected error occured in communication with service."
+msgstr "Nastala neočakávaná chyba v komunikácií so službou."
+
+#: src/common/ErrorContainer.tsx:50
+msgid "Unexpected error occured while sending a request."
+msgstr "Nastala neočakávaná chyba pri odosielaní požiadavku."
+
+#: src/common/ErrorContainer.tsx:115
+msgid "Unexpected problem occurred"
+msgstr "Nastala neočakávaná chyba"
+
+#: src/common/ShopAddress.tsx:5
+msgid "Unknown address"
+msgstr "Neznáma adresa"
+
+#: src/segments/orderForm/OrderPromoInput.tsx:37
+msgid "Validating promo code {code}..."
+msgstr "Overujem zľavový kód {code}..."
+
+#: src/segments/shop/ShopClosingTimeModal.tsx:16
+msgid "We are closed right now"
+msgstr "Momentálne máme zatvorené"
+
+#: src/segments/shop/ShopStatusDisplay.tsx:26
+msgid "We are closed until further notice"
+msgstr "Máme zatvorené kým neotvoríme"
+
+#: src/segments/shop/ShopStatusDisplay.tsx:38
+msgid "We are delivering in {deliveryTime} minutes"
+msgstr "doručíme za {deliveryTime} minút"
+
+#: src/segments/shop/ShopStatusDisplay.tsx:41
+msgid "We can prepare your order in {pickupTime} minutes"
+msgstr "Vašu objednávku vieme pripraviť za {pickupTime} minút."
+
+#: src/segments/finish/FinishViewFooter.tsx:18
+msgid "We have prepared mobile app, so you could order from anywhere!"
+msgstr "Pripravili sme pre Vás mobilnú appku, aby ste mohli objednávať dokiaľkoľvek!"
+
+#: src/app/App.tsx:26
+msgid "We know, you like space. Our app is optimised for desktop. Leave your phone in portrait for now."
+msgstr "Vieme, že máte radi priestor, preto sme vymazlili appku pre Váš počítač, mobil si zatiaľ nechajte na výšku."
+
+#: src/models/OrderModel.ts:530
+msgid "We were unable to verify status of your payment. Please contact operator using number {phone}"
+msgstr "Vašu platbu sa nám nepodarilo overiť. Kontaktujte prosím podporu na čísle {phone}"
+
+#: src/segments/shop/ShopStatusDisplay.tsx:56
+msgid "We will open at {0}"
+msgstr "Otvoríme v {0}"
+
+#: src/segments/shop/ShopClosingTimeModal.tsx:17
+msgid "We're sorry, but we do not accept new orders at this time."
+msgstr "Je nám ľúto, ale momentálne neprijímame nové objednávky."
+
+#: src/segments/finish/FinishViewFooter.tsx:15
+msgid "What about mobile app?"
+msgstr "Čo tak nabudúce skúsiť mobilnú appku?"
+
+#: src/segments/orderForm/OrderTimeButtons.tsx:15
+msgid "When possible"
+msgstr "Ak je možné"
+
+#: src/segments/orderForm/OrderTimePicker.tsx:85
+msgid "When you will pickup the order?"
+msgstr "Kedy si vyzdvihnete objednávku?"
+
+#: src/segments/mobile/MobileConfirmView.tsx:29
+msgid "Where and to whom we deliver?"
+msgstr "Kam a komu máme doručiť?"
+
+#: src/segments/cart/CartItem.tsx:39
+msgid "Without sidedish"
+msgstr "Bez prídavku"
+
+#: src/segments/orderForm/OrderFormTipInput.tsx:42
+msgid "Without tips"
+msgstr "Bez sprepitného"
+
+#: src/segments/finish/FinishViewOrder.tsx:31
+msgid "You can look forward to:"
+msgstr "Môžete sa tešiť na:"
+
+#: src/segments/shop/ShopClosingTimeModal.tsx:18
+msgid "You can prepare your order because we are {openingIn, plural, one {opening in 1 minute} other {opening in # minutes}} !"
+msgstr "Môžete pripraviť svoju objednávku, {openingIn, plural, one {otvárame za 1 minútu} few {otvárame za # minúty} other {otvárame za # minút}} !"
+
+#: src/segments/finish/FinishViewOrder.tsx:46
+msgid "You have payed."
+msgstr "Zaplatili ste."
+
+#: src/segments/finish/FinishViewOrder.tsx:43
+msgid "You will pay at pickup."
+msgstr "Zaplatíte pri prevzatí."
+
+#: src/models/LocationModel.ts:162
+msgid "Your browser does not support geolocation."
+msgstr "Váš prehliadač nepodporuje geolokalizaciu."
+
+#: src/segments/shop/ShopOverview.tsx:34
+msgid "Your order"
+msgstr "Vaša objednávka"
+
+#: src/segments/finish/FinishViewOrder.tsx:26
+msgid "Your order was successfully accepted!"
+msgstr "Vaša objednávka bola úspešne prijatá!"
+
+#: src/segments/orderForm/OrderNoteInput.tsx:10
+msgid "eg. ingredients change, company..."
+msgstr "napr. zmena surovín, firma..."
+
+#: src/segments/sidedishPicker/CategoryValidationMessage.tsx:8
+msgid "maximum {maxCount}"
+msgstr "najviac {maxCount}"
+
+#: src/segments/sidedishPicker/CategoryValidationMessage.tsx:15
+msgid "minimum {minCount}"
+msgstr "najmenej {minCount}"
+
+#: src/segments/sidedishPicker/CategoryValidationMessage.tsx:22
+msgid "minimum {minCount} and maximum {maxCount}"
+msgstr "najmenej {minCount} a najviac {maxCount}"
+
+#: src/segments/sidedishPicker/CategoryValidationMessage.tsx:19
+msgid "only {count}"
+msgstr "len {count}"
+
+#: src/segments/cart/CartOrderButton.tsx:21
+msgid "{0, plural, =0 {Order without sidedish} one {Order with this sidedish} other {Order with # sidedishes}}"
+msgstr "{0, plural, =0 {Objednávka bez prídavku} one {Objednávka s prídavkom} other {Objednávka s # prídavkami}}"
+
+#: src/segments/map/PickupMapBranch.tsx:54
+#: src/segments/shop/ShopStatusDisplay.tsx:52
+msgid "{closingIn, plural, one {Closing in 1 minute} other {Closing in # minutes}}"
+msgstr "{closingIn, plural, one {Zatvárame za 1 minútu} few {Zatvárame za # minúty} other {Zatvárame za # minút}}"
+
+#: src/segments/shop/ShopCloseAlert.tsx:11
+msgid "{closingIn, plural, one {closing in 1 minute} few {closing in # minutes} other {closing in # minutes}}"
+msgstr "{closingIn, plural, one {Za minútu zatvárame} few {Za # minúty zatvárame.} other {Za # minút zatvárame}}"
+
+#: src/segments/shop/ShopCloseAlert.tsx:11
+#~ msgid "{closingIn, plural, one {closing in 1 minute} other {closing in # minutes}}"
+#~ msgstr ""
+
+#: src/segments/map/PickupMapBranch.tsx:56
+#: src/segments/shop/ShopStatusDisplay.tsx:48
+msgid "{openingIn, plural, one {Opening in 1 minute} other {Opening in # minutes}}"
+msgstr "{openingIn, plural, one {Otvárame za 1 minútu} few {Otvárame za # minúty} other {Otvárame za # minút}}"
