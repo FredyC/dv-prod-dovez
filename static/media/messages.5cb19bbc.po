@@ -1,0 +1,552 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2018-10-15 16:04+0200\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: de\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/segments/destination/AddressInput.tsx:52
+msgid "Address was not recognized."
+msgstr "Die angegebene Adresse wurde nicht erkannt."
+
+#: src/segments/orderForm/OrderFormStorageNotice.tsx:52
+msgid "Always remember"
+msgstr "Jederzeit erinnern"
+
+#: src/segments/finish/FinishViewSupport.tsx:13
+msgid "Any question? Do you have a problem? Call:"
+msgstr "Haben Sie Fragen oder Probleme? Rufen Sie uns an:"
+
+#: src/segments/mobile/MobileDeliveryView.tsx:13
+#: src/segments/mobile/MobilePickupView.tsx:23
+msgid "Back"
+msgstr "Zurück"
+
+#: src/segments/finish/FinishViewFooter.tsx:37
+#: src/segments/finish/FinishViewFooter.tsx:46
+msgid "Back to home page"
+msgstr "Zurück zur Hauptseite"
+
+#: src/segments/shop/ShopCloseAlert.tsx:12
+#~ msgid "Beware! We are {closingIn, plural, one {closing in 1 minute} other {closing in # minutes}} . Finish your order quickly."
+#~ msgstr "Vorsicht! {closingIn, plural, one {Wir schließen in 1 Minute} few {In # Minuten schließen wir} other {In # Minuten schließen wir}}. Beenden Sie bitte schnell Ihren Einkauf."
+
+#: src/segments/shop/ShopCloseAlert.tsx:18
+msgid "Beware! We are {closingInPlural}. Finish your order quickly."
+msgstr "Vorsicht! Wir {closingInPlural}. Beenden Sie bitte schnell Ihre Bestellung."
+
+#: src/segments/mobile/MobileConfirmView.tsx:19
+msgid "Cancel"
+msgstr "Brechen"
+
+#: src/segments/cart/CartIsEmpty.tsx:8
+#: src/segments/mobile/MobileCartSummary.tsx:26
+msgid "Cart is empty"
+msgstr "Ihr Warenkorb ist leer"
+
+#: src/segments/orderForm/OrderGoPayModal.tsx:15
+msgid "Checking your GoPay payment, please wait..."
+msgstr "Ihre GoPay Zahlung wird überprüft, bitte warten Sie..."
+
+#: src/segments/mobile/MobilePickupList.tsx:26
+msgid "Choose"
+msgstr "Wählen Sie"
+
+#: src/segments/mobile/MobilePickupMap.tsx:43
+#: src/segments/mobile/MobilePickupView.tsx:23
+msgid "Choose branch"
+msgstr "Wählen Sie eine Filiale aus"
+
+#: src/segments/orderForm/OrderTimeButtons.tsx:18
+msgid "Choose time"
+msgstr "Zeitraum wählen"
+
+#: src/segments/shop/ShopHeader.tsx:38
+msgid "Choose your delivery option below"
+msgstr "Unten wählen Sie die Lieferart"
+
+#: src/common/ErrorContainer.tsx:128
+msgid "Close"
+msgstr "Schließen"
+
+#: src/segments/map/PickupMapBranch.tsx:52
+#: src/segments/shop/ShopStatusDisplay.tsx:56
+msgid "Closed"
+msgstr "Geschlossen"
+
+#: src/common/ErrorContainer.tsx:51
+msgid "Communication problem"
+msgstr "Kommunikationsproblem"
+
+#: src/segments/map/AddressSubmit.tsx:11
+msgid "Confirm address"
+msgstr "Adresse bestätigen"
+
+#: src/segments/orderForm/OrderTimePicker.tsx:95
+msgid "Confirm time"
+msgstr "Lieferzeit bestätigen"
+
+#: src/segments/cart/CartTotals.tsx:14
+msgid "Covers"
+msgstr "Verpackungen"
+
+#: src/segments/orderForm/OrderTimePicker.tsx:84
+msgid "Deliver at what time?"
+msgstr "Wann liefern?"
+
+#: src/segments/cart/CartTotals.tsx:20
+msgid "Delivery"
+msgstr "Lieferung"
+
+#: src/segments/map/PickupMapBranch.tsx:45
+#: src/segments/mobile/MobilePickupList.tsx:30
+#: src/segments/mobile/MobilePickupMap.tsx:50
+msgid "Delivery only"
+msgstr "Nur Lieferung möglich"
+
+#: src/segments/orderForm/OrderFormStorageNotice.tsx:55
+msgid "Do not store"
+msgstr "Nicht speichern"
+
+#: src/segments/cart/CartModal.tsx:36
+msgid "Do you want to add something?"
+msgstr "Möchten Sie etwas hinzufügen?"
+
+#: src/segments/orderForm/OrderEmailInput.tsx:12
+msgid "E-mail format is not valid"
+msgstr "Ungültiges Format der E-Mail-Adresse"
+
+#: src/segments/orderForm/OrderEmailInput.tsx:9
+msgid "E-mail is mandatory"
+msgstr "Die E-Mail-Adresse ist Pflichtangabe"
+
+#: src/segments/mobile/MobileDeliveryView.tsx:13
+msgid "Enter the address"
+msgstr "Geben Sie Ihre Adresse ein"
+
+#: src/models/OrderModel.ts:128
+msgid "Error during sending order. Please try again later."
+msgstr "Fehler beim Versenden der Bestellung, bitte versuchen Sie es erneut"
+
+#: src/segments/cart/AddToCartModal.tsx:14
+#: src/segments/cart/ChangeCartModal.tsx:14
+msgid "Error in loading cart item. Issue was reported."
+msgstr "Ein Fehler ist aufgetreten. Unser Team wurde informiert."
+
+#: src/segments/orderForm/OrderNameInput.tsx:7
+msgid "First name"
+msgstr "Vorname"
+
+#: src/segments/orderForm/OrderNameInput.tsx:7
+msgid "First name is mandatory"
+msgstr "Vorname ist Pflichtangabe"
+
+#: src/segments/foodMenu/FoodMenu.tsx:54
+msgid "Food menu is empty. We are sorry."
+msgstr "Im Angebot befinden sich keine Gerichte. Wir entschuldigen uns."
+
+#: src/segments/cart/CartItem.tsx:44
+msgid "For free"
+msgstr "Gratis"
+
+#: src/segments/mobile/MobileSmartBanner.tsx:48
+msgid "Free"
+msgstr "Gratis"
+
+#: src/segments/orderForm/OrderErrorModal.tsx:23
+msgid "I understand"
+msgstr "Einverstanden"
+
+#: src/segments/destination/OrderMethod.tsx:22
+msgid "I want to deliver"
+msgstr "Die Bestellung liefern lassen"
+
+#: src/segments/destination/OrderMethod.tsx:26
+msgid "I'll pick up"
+msgstr "Die Bestellung abholen"
+
+#: src/common/ErrorContainer.tsx:86
+msgid "If you like, please fill out feedback form so we can fix the problem faster. Restart the application otherwise."
+msgstr "Wenn Sie wollen, füllen Sie bitte die Rückmeldung aus, damit wir das Problem schneller lösen können. Ansonsten starten Sie die App neu."
+
+#: src/segments/mobile/MobileCartSummary.tsx:27
+msgid "In the cart you have goods for<0>{price}</0>"
+msgstr "In Ihrem Warenkorb befindet sich die Ware mit einem Wert von<0>{price}</0>"
+
+#: src/segments/mobile/AppleBanner.tsx:36
+msgid "Install this webapp on your device: Tap <0/> and then Add to homescreen."
+msgstr ""
+
+#: src/models/OrderModel.ts:133
+msgid "Internal error during sending order. Order can not be finished right now. Our team was notified and is working on fix. Thank you for your understanding."
+msgstr "Aufgrund eines internen technischen Fehlers kann diese Bestellung im Moment leider nicht abgeschlossen werden. Unser Team wurde darüber informiert und arbeitet auf der Problemlösung. Vielen Dank für Ihr Verständnis."
+
+#: src/segments/finish/FinishViewOrder.tsx:21
+msgid "It's done! Thank you :-)"
+msgstr "Das war's! Vielen Dank :-)"
+
+#: src/segments/orderForm/OrderTimePicker.tsx:69
+msgid "It's not possible to pick a specific order time at this moment."
+msgstr "Auswahl einer bestimmten Bestellzeit momentan nicht möglich."
+
+#: src/segments/orderForm/OrderNameInput.tsx:8
+msgid "Last name"
+msgstr "Nachname"
+
+#: src/segments/orderForm/OrderNameInput.tsx:8
+msgid "Last name is mandatory"
+msgstr "Nachname ist Pflichtangabe"
+
+#: src/segments/orderForm/OrderAgreements.tsx:52
+msgid "Less"
+msgstr "Weniger"
+
+#: src/segments/foodMenu/OrderLimitModal.tsx:8
+msgid "Limit has been reached"
+msgstr "Das Limit wurde erreicht."
+
+#: src/segments/orderForm/OrderNoteInput.tsx:15
+msgid "Maximum length is {MAX_LENGTH, plural, other {# characters}}. Typed {0, plural, one {# char} other {# chars}}"
+msgstr "Maximallänge ist {MAX_LENGTH, plural, other {# Zeichen}}. Geschrieben {0, plural, one {# Zeichen} few {# Zeichen} other {# Zeichen}}"
+
+#: src/segments/destination/AddressInput.tsx:62
+msgid "Meal can't be delivered to your chosen address by any restaurant."
+msgstr "Es tut uns Leid, aber an die angegebene Adresse wird nicht geliefert."
+
+#: src/segments/cart/CartMinimalOrderPrice.tsx:11
+msgid "Minimal price of order is {0}"
+msgstr ""
+
+#: src/segments/orderForm/OrderAgreements.tsx:53
+msgid "More..."
+msgstr "Mehr..."
+
+#: src/index.tsx:39
+msgid "New version has been found. Do you want to reload application to apply it now?"
+msgstr "Eine neue Version von App wurde gefunden. Möchten Sie sie jetzt erneuern?"
+
+#: src/segments/orderForm/OrderNoteInput.tsx:12
+msgid "Note"
+msgstr "Notiz"
+
+#: src/segments/orderForm/OrderNoteInput.tsx:8
+msgid "Note is too long"
+msgstr "Diese Notiz ist zu lang"
+
+#: src/segments/orderForm/OrderErrorModal.tsx:12
+msgid "Order can not be completed"
+msgstr "Die Bestellung kann nicht beendet werden"
+
+#: src/segments/mobile/MobileConfirmView.tsx:19
+msgid "Order confirmation"
+msgstr "Bestellbestätigung"
+
+#: src/segments/shop/OrderAddress.tsx:13
+msgid "Order to address"
+msgstr "An folgende Adresse bestellen"
+
+#: src/segments/shop/ShopHeader.tsx:53
+msgid "Order was send"
+msgstr "Ihre Bestellung wurde versendet"
+
+#: src/common/ErrorContainer.tsx:12
+msgid "Our team was notified about the issue."
+msgstr "Unseres Team wurde über dieses Problem benachrichtigt."
+
+#: src/segments/mobile/MobilePaymentMethod.tsx:11
+#: src/segments/orderForm/OrderPaymentMethod.tsx:9
+msgid "Pay by card"
+msgstr "Online bezahlen"
+
+#: src/segments/mobile/MobilePaymentMethod.tsx:16
+#: src/segments/orderForm/OrderPaymentMethod.tsx:12
+msgid "Pay by cash"
+msgstr "Barzahlung"
+
+#: src/segments/orderForm/OrderPhoneInput.tsx:14
+msgid "Phone"
+msgstr "Telefonnummer"
+
+#: src/segments/orderForm/OrderPhoneInput.tsx:6
+msgid "Phone is mandatory"
+msgstr "Telefonnummer ist Pflichtangabe"
+
+#: src/segments/orderForm/OrderPhoneInput.tsx:7
+msgid "Phone prefix is mandatory"
+msgstr "Vorwahlnummer ist Pflichtangabe"
+
+#: src/segments/shop/OrderAddress.tsx:17
+msgid "Pickup at address"
+msgstr "An der Adresse abholen"
+
+#: src/segments/map/PickupMapBranch.tsx:58
+msgid "Pickup here"
+msgstr "Hier abholen"
+
+#: src/segments/mobile/MobileConfirmView.tsx:36
+#: src/segments/mobile/MobileConfirmView.tsx:41
+#: src/segments/orderForm/OrderSubmitLine.tsx:15
+#: src/segments/orderForm/OrderSubmitLine.tsx:17
+msgid "Place order"
+msgstr "Bestellen"
+
+#: src/segments/destination/AddressInput.tsx:57
+msgid "Please enter address with house number."
+msgstr "Bitte geben Sie die Adresse inkl. PLZ ein."
+
+#: src/common/ErrorContainer.tsx:76
+msgid "Please try again in moment. We apologize for inconvenience."
+msgstr "Bitte, versuchen Sie es noch einmal später. Entschludigen Sie die Probleme."
+
+#: src/common/ErrorContainer.tsx:56
+msgid "Problems encountered"
+msgstr "Problemvertretung"
+
+#: src/segments/orderForm/OrderPromoInput.tsx:66
+msgid "Promo codes"
+msgstr "Promocodes"
+
+#: src/common/ErrorContainer.tsx:92
+msgid "Restart application"
+msgstr "Restart der Applikation"
+
+#: src/common/ErrorContainer.tsx:95
+msgid "Send feedback"
+msgstr "Feedback schicken"
+
+#: src/common/ErrorContainer.tsx:75
+msgid "Service is temporarily unavailable"
+msgstr "Die Dienst ist zurzeit nicht verfügbar"
+
+#: src/common/ErrorContainer.tsx:45
+msgid "Service problem"
+msgstr "Dienst Problem"
+
+#: src/segments/mobile/MobileSmartBanner.tsx:54
+msgid "Show app"
+msgstr "Die App anzeigen"
+
+#: src/segments/mobile/MobilePickupList.tsx:21
+msgid "Show on map"
+msgstr "Auf der Karte anzeigen"
+
+#: src/segments/foodMenu/OrderLimitModal.tsx:9
+msgid "The maximum number of items in the order has been reached"
+msgstr "Maximale Anzahl an Bestelleinheiten wurde erreicht"
+
+#: src/segments/orderForm/OrderFormStorageNotice.tsx:45
+msgid "This app is using secure storage for keeping filled form data. It's not cookies, these are stored in your browser only."
+msgstr "Diese App nutzt einen gesicherten Speicherplatz zur Speicherung von angegebenen Daten. Es handelt sich um keine Cookies, diese Daten sind in Ihrem Browser abgespeichert."
+
+#: src/segments/cart/CartTotals.tsx:26
+msgid "Tip"
+msgstr "Tipp"
+
+#: src/segments/orderForm/OrderFormTipInput.tsx:44
+msgid "Tips 10%"
+msgstr "Trinkgeld 10%"
+
+#: src/segments/orderForm/OrderFormTipInput.tsx:45
+msgid "Tips 15%"
+msgstr "Trinkgeld 15%"
+
+#: src/segments/orderForm/OrderFormTipInput.tsx:46
+msgid "Tips 20%"
+msgstr "Trinkgeld 20%"
+
+#: src/segments/orderForm/OrderFormTipInput.tsx:47
+msgid "Tips 25%"
+msgstr "Trinkgeld 25%"
+
+#: src/segments/orderForm/OrderFormTipInput.tsx:43
+msgid "Tips 5%"
+msgstr "Trinkgeld 5%"
+
+#: src/segments/cart/CartTotals.tsx:32
+msgid "Total"
+msgstr "Ins­ge­samt"
+
+#: src/segments/finish/FinishViewOrder.tsx:55
+msgid "Total cost payed:"
+msgstr "Insgesamt bezahlt:"
+
+#: src/segments/finish/FinishViewOrder.tsx:52
+msgid "Total cost to be payed:"
+msgstr "Gesamtbetrag zu zahlen:"
+
+#: src/segments/cart/CartDiscounts.tsx:10
+msgid "Total discount"
+msgstr "Gesamtrabatt"
+
+#: src/common/ErrorContainer.tsx:80
+msgid "Try now"
+msgstr "Jetzt versuchen"
+
+#: src/segments/destination/AddressInput.tsx:37
+msgid "Type address or choose it from map"
+msgstr "Schreiben Sie Ihre Adresse oder wählen Sie sie auf der Karte"
+
+#: src/common/ErrorContainer.tsx:85
+msgid "Unexpected error has occurred"
+msgstr "Unerwarteter Fehler ist aufgetreten"
+
+#: src/common/ErrorContainer.tsx:46
+msgid "Unexpected error occured in communication with service."
+msgstr ""
+
+#: src/common/ErrorContainer.tsx:52
+msgid "Unexpected error occured while sending a request."
+msgstr ""
+
+#: src/common/ErrorContainer.tsx:129
+msgid "Unexpected problem occurred"
+msgstr ""
+
+#: src/common/ShopAddress.tsx:5
+msgid "Unknown address"
+msgstr "Unbekannte Adresse"
+
+#: src/segments/orderForm/OrderPromoInput.tsx:37
+msgid "Validating promo code {code}..."
+msgstr "Promocode wird überprüft {code}..."
+
+#: src/segments/shop/ShopClosingTimeModal.tsx:16
+msgid "We are closed right now"
+msgstr "Momentan geschlossen"
+
+#: src/segments/shop/ShopStatusDisplay.tsx:26
+msgid "We are closed until further notice"
+msgstr ""
+
+#: src/segments/shop/ShopStatusDisplay.tsx:38
+msgid "We are delivering in {deliveryTime} minutes"
+msgstr "Wir lieferen in {deliveryTime} Minuten"
+
+#: src/segments/shop/ShopStatusDisplay.tsx:41
+msgid "We can prepare your order in {pickupTime} minutes"
+msgstr "Ihre Bestellung kann in {pickupTime} Minuten vorbereitet werden"
+
+#: src/segments/finish/FinishViewFooter.tsx:18
+msgid "We have prepared mobile app, so you could order from anywhere!"
+msgstr "Wir haben für Sie eine Mobile App entwickelt, damit Sie von überall bequem bestellen können!"
+
+#: src/app/App.tsx:28
+msgid "We know, you like space. Our app is optimised for desktop. Leave your phone in portrait for now."
+msgstr "Wir sind uns bewusst, dass Sie Raum mögen. Daher ist unsere App für Computer optimiert. Ihr Handy behalten Sie bis auf weiteres in vertikaler Position eingestellt."
+
+#: src/models/OrderModel.ts:537
+msgid "We were unable to verify status of your payment. Please contact operator using number {phone}"
+msgstr "Wir waren nicht fähig, Ihren Bestellstatus zu überprüfen. Bitte kontaktieren Sie unseren Operator auf {phone}"
+
+#: src/segments/shop/ShopStatusDisplay.tsx:56
+msgid "We will open at {0}"
+msgstr ""
+
+#: src/segments/shop/ShopClosingTimeModal.tsx:17
+msgid "We're sorry, but we do not accept new orders at this time."
+msgstr "Es tut uns Leid, momentan ist die Bestellannahme nicht geöffnet."
+
+#: src/segments/finish/FinishViewFooter.tsx:15
+msgid "What about mobile app?"
+msgstr "Was halten Sie davon, es nächstes mal aus Ihrem Handy versuchen?"
+
+#: src/segments/orderForm/OrderTimeButtons.tsx:15
+msgid "When possible"
+msgstr "Wann möglich"
+
+#: src/segments/orderForm/OrderTimePicker.tsx:85
+msgid "When you will pickup the order?"
+msgstr "Wann holen Sie Ihre Bestellung ab?"
+
+#: src/segments/mobile/MobileConfirmView.tsx:29
+msgid "Where and to whom we deliver?"
+msgstr "Wohin und wem liefern wir?"
+
+#: src/segments/cart/CartItem.tsx:39
+msgid "Without sidedish"
+msgstr "Ohne Beilage"
+
+#: src/segments/orderForm/OrderFormTipInput.tsx:42
+msgid "Without tips"
+msgstr ""
+
+#: src/segments/finish/FinishViewOrder.tsx:31
+msgid "You can look forward to:"
+msgstr "Sie können sich auf folgendes freuen:"
+
+#: src/segments/shop/ShopClosingTimeModal.tsx:18
+msgid "You can prepare your order because we are {openingIn, plural, one {opening in 1 minute} other {opening in # minutes}} !"
+msgstr "Sie können Ihre Bestellung vorbereiten, weil wir {openingIn, plural, one {öffnen in 1 Minute} other {öffnen in # Minuten}} !"
+
+#: src/segments/finish/FinishViewOrder.tsx:46
+msgid "You have payed."
+msgstr "Sie haben bezahlt."
+
+#: src/segments/finish/FinishViewOrder.tsx:43
+msgid "You will pay at pickup."
+msgstr "Sie werden beim Empfang bezahlen."
+
+#: src/models/LocationModel.ts:162
+msgid "Your browser does not support geolocation."
+msgstr "Geolokalisation wird von Ihrem Browser nicht unterstützt."
+
+#: src/segments/shop/ShopOverview.tsx:34
+msgid "Your order"
+msgstr "Ihre Bestellung"
+
+#: src/segments/finish/FinishViewOrder.tsx:26
+msgid "Your order was successfully accepted!"
+msgstr "Ihre Bestellung wurde erfolgreich entgegengenommen!"
+
+#: src/segments/orderForm/OrderNoteInput.tsx:10
+msgid "eg. ingredients change, company..."
+msgstr "z. B. Zutaten ändern, Firma..."
+
+#: src/segments/sidedishPicker/CategoryValidationMessage.tsx:8
+msgid "maximum {maxCount}"
+msgstr "Maximum {maxCount}"
+
+#: src/segments/sidedishPicker/CategoryValidationMessage.tsx:15
+msgid "minimum {minCount}"
+msgstr ""
+"Minimum {minCount}\n"
+"\n"
+""
+
+#: src/segments/sidedishPicker/CategoryValidationMessage.tsx:22
+msgid "minimum {minCount} and maximum {maxCount}"
+msgstr "Minimum {minCount} und Maximum {maxCount}"
+
+#: src/segments/sidedishPicker/CategoryValidationMessage.tsx:19
+msgid "only {count}"
+msgstr "nur {count}"
+
+#: src/segments/cart/CartOrderButton.tsx:21
+msgid "{0, plural, =0 {Order without sidedish} one {Order with this sidedish} other {Order with # sidedishes}}"
+msgstr "{0, plural, =0 {Bestellung ohne Beilage} one {Bestellung mit dieser Beilage} few {Bestellung mit # Beilagen} other {Bestellung mit # Beilagen}}"
+
+#: src/segments/map/PickupMapBranch.tsx:54
+#: src/segments/shop/ShopStatusDisplay.tsx:52
+msgid "{closingIn, plural, one {Closing in 1 minute} other {Closing in # minutes}}"
+msgstr "{closingIn, plural, one {Wir schließen in 1 Minute} few {Wir schließen in # Minuten} other {Wir schließen in # Minuten}}"
+
+#: src/segments/shop/ShopCloseAlert.tsx:11
+msgid "{closingIn, plural, one {closing in 1 minute} few {closing in # minutes} other {closing in # minutes}}"
+msgstr "{closingIn, plural, one {wir schließen in 1 Minute} other {wir schließen in # Minuten}}"
+
+#: src/segments/shop/ShopCloseAlert.tsx:11
+#~ msgid "{closingIn, plural, one {closing in 1 minute} other {closing in # minutes}}"
+#~ msgstr ""
+
+#: src/segments/map/PickupMapBranch.tsx:56
+#: src/segments/shop/ShopStatusDisplay.tsx:48
+msgid "{openingIn, plural, one {Opening in 1 minute} other {Opening in # minutes}}"
+msgstr "{openingIn, plural, one {Wir öffnen in 1 Minute} few {Wir öffnen in # Minuten} other {Wir öffnen in # Minuten}}"
