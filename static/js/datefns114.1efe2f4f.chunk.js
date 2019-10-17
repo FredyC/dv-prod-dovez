@@ -1,0 +1,2 @@
+(window.webpackJsonpdoveze=window.webpackJsonpdoveze||[]).push([[20],{1018:function(e,o,t){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.default=void 0;var a={};["MMM","MMMM"].forEach(function(e){a["Do "+e]=function(o,t){var a=t.formatters,n=a[1===o.getUTCDate()?"Do":"D"],r=a[e];return n(o,t)+" "+r(o,t)}});var n=a;o.default=n,e.exports=o.default}}]);
+//# sourceMappingURL=datefns114.1efe2f4f.chunk.js.map

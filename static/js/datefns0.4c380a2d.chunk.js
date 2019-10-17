@@ -1,0 +1,2 @@
+(window.webpackJsonpdoveze=window.webpackJsonpdoveze||[]).push([[2],{733:function(e,t,d){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=function(e){return function(t){var d=t||{},n=d.width?String(d.width):e.defaultWidth;return e.formats[n]||e.formats[e.defaultWidth]}},e.exports=t.default}}]);
+//# sourceMappingURL=datefns0.4c380a2d.chunk.js.map

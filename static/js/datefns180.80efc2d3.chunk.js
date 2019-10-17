@@ -1,0 +1,2 @@
+(window.webpackJsonpdoveze=window.webpackJsonpdoveze||[]).push([[93],{881:function(e,o,t){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.default=function(e,o,t,n){return p[e]};var p={lastWeek:"\u5148\u9031\u306eeeee\u306ep",yesterday:"\u6628\u65e5\u306ep",today:"\u4eca\u65e5\u306ep",tomorrow:"\u660e\u65e5\u306ep",nextWeek:"\u7fcc\u9031\u306eeeee\u306ep",other:"P"};e.exports=o.default}}]);
+//# sourceMappingURL=datefns180.80efc2d3.chunk.js.map

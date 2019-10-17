@@ -1,0 +1,2 @@
+(window.webpackJsonpdoveze=window.webpackJsonpdoveze||[]).push([[19],{827:function(e,o,r){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.default=function(e,o,r,n){return t[e]};var t={lastWeek:"eeee 'dernier \xe0' p",yesterday:"'hier \xe0' p",today:"'aujourd\u2019hui \xe0' p",tomorrow:"'demain \xe0' p'",nextWeek:"eeee 'prochain \xe0' p",other:"P"};e.exports=o.default}}]);
+//# sourceMappingURL=datefns113.8ebd2791.chunk.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonpdoveze=window.webpackJsonpdoveze||[]).push([[79],{871:function(e,d,o){"use strict";Object.defineProperty(d,"__esModule",{value:!0}),d.default=function(e,d,o,r){return t[e]};var t={lastWeek:"'s\xed\xf0asta' dddd 'kl.' p",yesterday:"'\xed g\xe6r kl.' p",today:"'\xed dag kl.' p",tomorrow:"'\xe1 morgun kl.' p",nextWeek:"dddd 'kl.' p",other:"L"};e.exports=d.default}}]);
+//# sourceMappingURL=datefns168.febbea5d.chunk.js.map
